@@ -1,5 +1,5 @@
 # fancy-walrus
-A simple fully connected neural network in Java, paired with a classifier class. The classes can easily be integrated into other projects.
+A simple fully connected neural network in Java, paired with a classifier class. The classes can be integrated into other projects.
 ## An example of the network
 
 Here is a demonstration of a simple implementation of the class. In it, a network is trained to model the sine function for input values between 0 and 1.
